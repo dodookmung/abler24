@@ -13,3 +13,9 @@
 ## 프로젝트 설계 문서
 
 - [프로젝트 계획](project_plan.md)
+
+### 데이터셋
+
+[AI Hub 식물 병 유발 통합 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=525)
+
+<https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=525>
