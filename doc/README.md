@@ -21,7 +21,7 @@
 
 데이터셋 공유 드라이브 </br>
 
-<https://visionhoseo-my.sharepoint.com/personal/20191432_365_hoseo_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F20191432%5F365%5Fhoseo%5Fedu%2FDocuments%2F%EC%97%90%EC%9D%B4%EB%B8%94%EB%9F%B024></br>
+<https://visionhoseo-my.sharepoint.com/personal/20191432_365_hoseo_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F20191432%5F365%5Fhoseo%5Fedu%2FDocuments%2F%EC%97%90%EC%9D%B4%EB%B8%94%EB%9F%B024&ga=1></br>
 </br>
 
 AI Hub 식물 병 유발 통합 데이터 </br>
