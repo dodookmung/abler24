@@ -13,5 +13,6 @@
 이 문서를 통해 프로젝트에 대한 이해를 높이고, 원활한 협업을 도모할 수 있습니다.</br>
 
 - [회의록](회의록.md)
+- [코드 공유](scripts/README.md)
 - [Git 사용법](git_tutorial.md)
 - [프로젝트 구상안](project_plan.md)
