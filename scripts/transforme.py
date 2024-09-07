@@ -1,3 +1,8 @@
+#
+# Author : jyj19
+# Commits on Aug 26, 2024
+# 목적 : 데이터셋의 크기를 줄이기 위한 스크립트
+
 import os
 import shutil
 
